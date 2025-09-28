@@ -3,7 +3,7 @@ import { faqs } from "../static/faq";
 
 const FAQ = () => {
     return (
-        <section className="max-w-7xl mx-auto my-14 px-4">
+        <section className="my-14 px-4">
             <h2 className="text-2xl md:text-[32px] lg:text-5xl font-bold text-center mb-10">Frequently Asked Questions</h2>
 
             <div className="w-full md:w-[95%] lg:w-[60%] mx-auto">
